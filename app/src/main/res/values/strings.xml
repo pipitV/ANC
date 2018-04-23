@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ANC</string>
+    <string name="lanjutkan_dengan_facebook">Lanjutkan Dengan Facebook</string>
+    <string name="email_telepon_username">Email/Telepon/Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+</resources>
